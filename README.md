@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tuusuario/">
+  <a href="https://www.linkedin.com/in/lautaro-peralta-b02605394">
     <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
 </p>
